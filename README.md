@@ -1,13 +1,17 @@
-Freetsrap is a CSS Framework for developing responsive and mobile-first websites. It is able to handle dark and light mode.
+**Freetsrap**: A Responsive and Versatile CSS Framework
 
-Freetsrap comes with a lot of predefined CSS Classes to improve your designs.
+Freetsrap is your go-to CSS framework for crafting responsive and mobile-first websites with ease. Whether you're aiming for a sleek, modern design or a classic aesthetic, Freetsrap has you covered, offering seamless support for both light and dark modes.
 
-# Why Freetsrap?
-Simple answer: simplicity. Freetsrap is highly customizable and perfect for the fast "Code 2 Go"
+## Why Choose Freetsrap?
 
-# Can I contribute to this Project?
-YES PLEASE! Just fork the repo add your Designs and then open a Pull Request. I will check if this is useful.
+In a word: simplicity. Freetsrap prioritizes ease of use without sacrificing customization options. Perfect for rapid development, it empowers you to create stunning web experiences without the hassle.
 
-## Contact
-Discord: letsplay
-Email: semaja.voye5_8@gmx.de
+## Ready to Contribute?
+
+Absolutely! I welcome contributions from the community. Simply fork the repository, incorporate your designs, and submit a pull request. I'll review your contributions promptly to ensure they enhance the project.
+
+## Get in Touch
+
+Have questions or suggestions? Reach out to me on Discord at *letsplay* or via email at *semaja.voye5_8@gmx.de*. I´am eager to hear from you!
+
+Let's make the web beautiful together with Freetsrap! 🚀✨
